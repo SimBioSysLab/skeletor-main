@@ -1,0 +1,36 @@
+# Type: 1 - Archival, 2 - "User", 3 - Enterprise, 4 - HPC
+# 0 in any field means no value
+# Trace_name Type Avg._File_Size(MB) Reads/day Writes/day Date r/w maxiops
+# avgiops
+satyanarayanan81 2 .012 0 0 1981 0 0 0 
+irlam93 2 .022 0 0 1993 0 0 0
+sfs97 2 .027 0 0 1997 0 0 0 
+doucer99 3 .079 0 0 1998 0 0 0 
+vu2005 2 .327 0 0 2005 0 0 0 
+sfs2008 2 .531 0 0 2008 0 0 0 
+cmu-pdl1 2 .37 0 0 2008 0 0 0
+pnnl-nwfs 1 19.3 0 0 2008 0 0 0
+pnnl-dtemp 4 10.3 0 0 2008 0 0 0
+psc-scratch 4 15.6 0 0 2008 0 0 0
+psc-bessemer 4 9.6 0 0 2008 0 0 0
+arsc-seau1 1 29.0 0 0 2008 0 0 0
+arsc-seau2 1 21.7 0 0 2008 0 0 0
+arsc-nanu1 1 10.4 0 0 2008 0 0 0
+arsc-projects 1 5.2 0 0 2008 0 0 0
+# previous data from Characterizing HEC Storage Systems at Rest. Shobhit Dayal.
+# Carnegie Mellon University Parallel Data Lab Technical Report CMU-PDL-08-109,
+# July 2008.  
+LLNL03 4 3 0 0 2003 0 0 0
+lanlhpc 4 1 0 0 2007 0 0 0
+#data with reads/writes:
+fiu-dedup 2 0 34593.52 814773.19 2010 24 11897 37 
+msr-cambridge 2 0 14847 144447 2007 .0989 3925 6.53 
+ncar2010 1 0 1326137 595661 2010 0 0 0
+sprite 2 0 207000 57000 1991 3.61 0 0
+nt 3 0 1270000 231000 2000 4.49 0 0
+res 2 0 303000 71000 2000 4.27 0 0
+ins 3 0 2320000 150000 2000 15.4 0 0
+nfs-eecs 2 0 350000 438000 2001 3.25 4719.4 3091.67
+nfs-campus 2 0 19290000 5930000 2001 .8 741.67 .5142
+#data with IOPS
+
