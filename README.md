@@ -6,7 +6,7 @@ Skeletor is a project in the Emory SimBioSys Lab to understand how users and app
 
 ### Resources
 
-- [Metric Exploration Website]()
+- [Metric Exploration Website (mock)](https://share.proto.io/JD376R/)
 - [Data Repository]()
 - [Publications (with code)]()
 
